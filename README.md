@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @editor-acd
-- 👀 I’m interested in developing analogcircuitdesign.com 
-- 🌱 I’m currently learning electronics
-- 💞️ I’m looking to collaborate on electronics hardware
-- 📫 How to reach me editor@analogciruitdesign.com
+- 👀 I’m developing www.analogcircuitdesign.com 
+- 🌱 I’m an electrical engineer.
+- 💞️ I’m am open to work with you on electronics hardware/software.
+- 📫 How to reach me : editor@analogciruitdesign.com
 
 <!---
 editor-acd/editor-acd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
